@@ -7,6 +7,8 @@ It addresses the limitations of previous datasets, including difficulty, granula
 400 pairs of various graphs in four categories (Basic, Regular, Extension, CFI).
 The graphs are organized pair-wise, where each pair is tested individually to return whether a GNN can distinguish them. We propose a new evaluation method, **RPC** (Reliable Paired Comparisons), with a contrastive training framework.
 
+We also provide a Pypi package for simple usage. Please refer to [Pypi package](https://pypi.org/project/brec-iclr2024/).
+
 
 ## Usages
 
